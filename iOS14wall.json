@@ -73,7 +73,7 @@
       "id_wall":"002",
       "nama_cat": "iOS 14",
       "judul":"iOS 14",
-      "image":"file:///android_asset/gambar/2.JPEG"
+      "image":"file:///android_asset/gambar/2.jpeg"
     },
     {
       "id":3,
@@ -108,15 +108,14 @@
       "id_wall":"007",
       "nama_cat": "iOS 14",
       "judul":"iOS 14",
-      "image":"file:///android_asset/gambar/6.png"
+      "image":"file:///android_asset/gambar/7.png"
     },
     {
       "id":8,
       "id_wall":"008",
       "nama_cat": "iOS 14",
       "judul":"iOS 14",
-      "image":"file:///android_asset/gambar/6.png"
+      "image":"file:///android_asset/gambar/8.png"
     }
-
   ]
 }
