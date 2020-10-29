@@ -3,14 +3,14 @@
         "status": "0",
         "link": "https://play.google.com/store/apps/details?id=com.",
       
-        "interid": "ca-app-pub-3940256099942544/1033173712",
-        "nativeid": "ca-app-pub-3940256099942544/2247696110",
-        "openads":"ca-app-pub-3940256099942544/1033173712",
-        "interval": 2,
-        "pengaturan_iklan":"1",
+        "interid": "ca-app-pub-5456136783183193/2268315393",
+        "nativeid": "ca-app-pub-5456136783183193/8753832693",
+        "openads":"ca-app-pub-5456136783183193/6974858922",
+        "interval": 4,
+        "pengaturan_iklan":"0",
         
-        "fan_inter":"981545408591412_999151030164183",
-        "fan_banner_native":"981545408591412_2709037092508893",
+        "fan_inter":"",
+        "fan_banner_native":"",
 
         "inmobi_inter": 1476878485960,
         "inmobi_banner":1473189489298,
