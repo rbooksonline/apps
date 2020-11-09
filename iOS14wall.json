@@ -44,6 +44,12 @@
       "nama_cat": "iOS 14",
       "gambar": "file:///android_asset/gambar/3.jpg"
 
+    },
+             {
+      "id": 1,
+      "nama_cat": "iPhone 12",
+      "gambar": "https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-01-768x1662.jpg"
+
     }
   ],
 
@@ -104,6 +110,76 @@
       "nama_cat": "iOS 14",
       "judul":"iOS 14",
       "image":"file:///android_asset/gambar/8.png"
+    },
+          	{
+      "id":9,
+      "id_wall":"009",
+      "nama_cat": "iPhone 12",
+      "judul":"Stock Wallpaper",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-01-768x1662.jpg"
+    },
+		{
+      "id":10,
+      "id_wall":"010",
+      "nama_cat": "iPhone 12",
+      "judul":"Stock Wallpaper",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-02-768x1662.jpg"
+    },
+		{
+      "id":11,
+      "id_wall":"011",
+      "nama_cat": "iPhone 12",
+      "judul":"Stock Wallpaper",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-03-768x1662.jpg"
+    },
+		{
+      "id":12,
+      "id_wall":"012",
+      "nama_cat": "iPhone 12",
+      "judul":"Stock Wallpaper",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-04-768x1662.jpg"
+    },
+		{
+      "id":13,
+      "id_wall":"013",
+      "nama_cat": "iPhone 12",
+      "judul":"Stock Wallpaper",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-05-768x1662.jpg"
+    },
+		{
+      "id":14,
+      "id_wall":"014",
+      "nama_cat": "iPhone 12",
+      "judul":"Stock Wallpaper",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-06-768x1662.jpg"
+    },
+		{
+      "id":15,
+      "id_wall":"015",
+      "nama_cat": "iPhone 12",
+      "judul":"Stock Wallpaper",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-07-768x1662.jpg"
+    },
+		{
+      "id":16,
+      "id_wall":"016",
+      "nama_cat": "iPhone 12",
+      "judul":"Stock Wallpaper",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-08-768x1662.jpg"
+    },
+		{
+      "id":17,
+      "id_wall":"017",
+      "nama_cat": "iPhone 12",
+      "judul":"Stock Wallpaper",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-09-768x1662.jpg"
+    },
+		{
+      "id":18,
+      "id_wall":"018",
+      "nama_cat": "iPhone 12",
+      "judul":"Stock Wallpaper",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-10-768x1662.jpg"
     }
   ]
 }
