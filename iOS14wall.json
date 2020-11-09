@@ -45,10 +45,16 @@
       "gambar": "file:///android_asset/gambar/3.jpg"
 
     },
-             {
-      "id": 1,
+        {
+      "id": 2,
       "nama_cat": "iPhone 12",
       "gambar": "https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-01-768x1662.jpg"
+
+    },
+	{
+      "id": 3,
+      "nama_cat": "iPhone 12 Pro",
+      "gambar": "https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-153.jpg"
 
     }
   ],
@@ -111,75 +117,243 @@
       "judul":"iOS 14",
       "image":"file:///android_asset/gambar/8.png"
     },
-          	{
+    {
       "id":9,
       "id_wall":"009",
       "nama_cat": "iPhone 12",
       "judul":"Stock Wallpaper",
-      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-01-768x1662.jpg"
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-01.jpg"
     },
 		{
       "id":10,
       "id_wall":"010",
       "nama_cat": "iPhone 12",
       "judul":"Stock Wallpaper",
-      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-02-768x1662.jpg"
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-02.jpg"
     },
 		{
       "id":11,
       "id_wall":"011",
       "nama_cat": "iPhone 12",
       "judul":"Stock Wallpaper",
-      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-03-768x1662.jpg"
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-03.jpg"
     },
 		{
       "id":12,
       "id_wall":"012",
       "nama_cat": "iPhone 12",
       "judul":"Stock Wallpaper",
-      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-04-768x1662.jpg"
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-04.jpg"
     },
 		{
       "id":13,
       "id_wall":"013",
       "nama_cat": "iPhone 12",
       "judul":"Stock Wallpaper",
-      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-05-768x1662.jpg"
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-05.jpg"
     },
 		{
       "id":14,
       "id_wall":"014",
       "nama_cat": "iPhone 12",
       "judul":"Stock Wallpaper",
-      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-06-768x1662.jpg"
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-06.jpg"
     },
 		{
       "id":15,
       "id_wall":"015",
       "nama_cat": "iPhone 12",
       "judul":"Stock Wallpaper",
-      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-07-768x1662.jpg"
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-07.jpg"
     },
 		{
       "id":16,
       "id_wall":"016",
       "nama_cat": "iPhone 12",
       "judul":"Stock Wallpaper",
-      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-08-768x1662.jpg"
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-08.jpg"
     },
 		{
       "id":17,
       "id_wall":"017",
       "nama_cat": "iPhone 12",
       "judul":"Stock Wallpaper",
-      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-09-768x1662.jpg"
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-09.jpg"
     },
 		{
       "id":18,
       "id_wall":"018",
       "nama_cat": "iPhone 12",
       "judul":"Stock Wallpaper",
-      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-10-768x1662.jpg"
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/Apple-iPhone-12-Stock-Wallpaper-1356x2934-10.jpg"
+    },
+	{
+      "id":19,
+      "id_wall":"019",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-118.jpg"
+    },
+	{
+      "id":20,
+      "id_wall":"020",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-119.jpg"
+    },
+		{
+      "id":21,
+      "id_wall":"021",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-120.jpg"
+    },
+		{
+      "id":22,
+      "id_wall":"022",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-122.jpg"
+    },
+		{
+      "id":23,
+      "id_wall":"023",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-123.jpg"
+    },
+		{
+      "id":24,
+      "id_wall":"024",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-125.jpg"
+    },
+		{
+      "id":25,
+      "id_wall":"025",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-127.jpg"
+    },
+		{
+      "id":26,
+      "id_wall":"026",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-115.jpg"
+    },
+		{
+      "id":27,
+      "id_wall":"027",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-151.jpg"
+    },
+		{
+      "id":28,
+      "id_wall":"028",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-142.jpg"
+    },
+		{
+      "id":29,
+      "id_wall":"029",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-144.jpg"
+    },
+		{
+      "id":30,
+      "id_wall":"030",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-146.jpg"
+    },
+		{
+      "id":31,
+      "id_wall":"031",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-148.jpg"
+    },
+		{
+      "id":32,
+      "id_wall":"032",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-145.jpg"
+    },
+		{
+      "id":33,
+      "id_wall":"033",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-150.jpg"
+    },
+		{
+      "id":34,
+      "id_wall":"034",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-152.jpg"
+    },
+		{
+      "id":35,
+      "id_wall":"035",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-153.jpg"
+    },
+		{
+      "id":36,
+      "id_wall":"036",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-154.jpg"
+    },
+		{
+      "id":37,
+      "id_wall":"037",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-156.jpg"
+    },
+		{
+      "id":38,
+      "id_wall":"038",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-161.jpg"
+    },
+		{
+      "id":39,
+      "id_wall":"039",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-163.jpg"
+    },
+		{
+      "id":40,
+      "id_wall":"040",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-164.jpg"
+    },
+		{
+      "id":41,
+      "id_wall":"041",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-165.jpg"
+    },
+		{
+      "id":42,
+      "id_wall":"042",
+      "nama_cat": "iPhone 12 Pro",
+      "judul":"Wallpaper iPhone 12 Pro ",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-167.jpg"
     }
   ]
 }
