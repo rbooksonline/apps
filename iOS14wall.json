@@ -354,6 +354,48 @@
       "nama_cat": "iPhone 12 Pro",
       "judul":"Wallpaper iPhone 12 Pro ",
       "image":"https://www.setaswall.com/wp-content/uploads/2020/10/1170x2532-Wallpaper-167.jpg"
+    },
+		{
+      "id":43,
+      "id_wall":"043",
+      "nama_cat": "iOS 14",
+      "judul":"iOS 14",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/07/iOS-14-Stock-Wallpaper-1420x3073-01.jpg"
+    },
+		{
+      "id":44,
+      "id_wall":"044",
+      "nama_cat": "iOS 14",
+      "judul":"iOS 14",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/07/iOS-14-Stock-Wallpaper-1420x3073-02.jpg"
+    },
+		{
+      "id":45,
+      "id_wall":"045",
+      "nama_cat": "iOS 14",
+      "judul":"iOS 14",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/07/iOS-14-Stock-Wallpaper-1420x3073-03.jpg"
+    },
+		{
+      "id":46,
+      "id_wall":"046",
+      "nama_cat": "iOS 14",
+      "judul":"iOS 14",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/07/iOS-14-Stock-Wallpaper-1420x3073-04.jpg"
+    },
+		{
+      "id":47,
+      "id_wall":"047",
+      "nama_cat": "iOS 14",
+      "judul":"iOS 14",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/07/iOS-14-Stock-Wallpaper-1420x3073-05.jpg"
+    },
+		{
+      "id":48,
+      "id_wall":"048",
+      "nama_cat": "iOS 14",
+      "judul":"iOS 14",
+      "image":"https://www.setaswall.com/wp-content/uploads/2020/07/iOS-14-Stock-Wallpaper-1420x3073-06.jpg"
     }
   ]
 }
