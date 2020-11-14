@@ -1,0 +1,358 @@
+{ "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+      
+        "interid": "ca-app-pub-5456136783183193/2268315393",
+        "nativeid": "ca-app-pub-5456136783183193/8753832693",
+        "openads":"ca-app-pub-5456136783183193/6974858922",
+        "interval": 4,
+        "pengaturan_iklan":"0",
+        
+        "fan_inter":"355235289238153_355236795904669",
+        "fan_banner_native":"355235289238153_355236325904716",
+
+        "inmobi_inter": 1476878485960,
+        "inmobi_banner":1473189489298,
+        "inmobi_id":"1234567890qwerty0987654321qwerty12345",
+        
+        "startaap":"1234567890",
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+
+        }
+    ],
+
+"More":
+  [ 
+    {
+    "id":1,
+    "judul":"Facebook",
+    "image":"https://play-lh.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.facebook.katana"
+  }
+
+  ],
+  
+  "Categories": 
+ [
+    {
+      "id": 1,
+      "nama_cat": "Black Style",
+      "gambar": "https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-033-768x1664.jpg"
+
+    }
+  ],
+
+  "Wallpaper":
+  [ 
+
+
+    {
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-001-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-002-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-003-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-004-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-005-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-006-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-007-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-008-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-009-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-010-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-011-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-012-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-013-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-014-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-015-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-016-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-017-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-018-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-019-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-020-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-021-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-022-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-023-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-024-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-025-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-026-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-027-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-028-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-029-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-030-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-031-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-032-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-033-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-034-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-035-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-036-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-037-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-039-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-041-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-042-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-044-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-045-768x1664.jpg"
+    },
+	{
+      "id":00,
+      "id_wall":"00",
+      "nama_cat": "Black Style",
+      "judul":"Black Wallpapers",
+      "image":"https://www.setaswall.com/wp-content/uploads/2017/07/Black-Phone-Wallpaper-1080x2340-055-768x1664.jpg"
+    }
+
+
+  ]
+}
